@@ -1,0 +1,6 @@
+numpy
+pybullet
+graphviz
+google-generativeai
+matplotlib
+tqdm
