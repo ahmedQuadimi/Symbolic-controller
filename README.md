@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 About The Project
+## About The Project
 
 This repository implements **Symbolic Control** algorithms designed to synthesize controllers for dynamic systems. It bridges the gap between high-level logic and low-level control, featuring:
 * **2D & 3D Abstractions:** Visualizing automata and state-space partitions.
@@ -21,7 +21,7 @@ This repository implements **Symbolic Control** algorithms designed to synthesiz
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Prerequisites
 Ensure you have Python installed. The project relies on specific dependencies found in `requirements.txt`.
