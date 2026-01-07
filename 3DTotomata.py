@@ -24,7 +24,7 @@ from typing_extensions import DefaultDict
 # ============================================================
 
 
-API_KEY = 'AIzaSyBFWm4VkVyg67yFFwzT-zx7lEEzEnHV1-c'
+API_KEY = ''
 genai.configure(api_key=API_KEY)
 
 
